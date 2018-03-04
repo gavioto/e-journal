@@ -1,6 +1,5 @@
 # Resources
 
-* [Resource Name](https://examplelink.com/asdfy) *
-* [Resource Name](https://examplelink.com/jklnfdsa) *****
-  * Resource Description.
-* [Resource Name](https://examplelink.com/qwersdf) **
+* [Data Modeling Essentials, 3d Edition]
+Authors: Graeme Simsion, Graham Witt
+eBook ISBN: 9780080488677 Paperback ISBN: 9780126445510
